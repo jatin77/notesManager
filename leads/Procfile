@@ -1,1 +1,1 @@
-web: gunicorn leads:wsgi
+web: gunicorn leads.wsgi
